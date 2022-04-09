@@ -50,8 +50,9 @@
 % Examples:
 % =======================
 %% Example: Using numerical, sort-by-authors citations.
-\documentclass[num-refs]{wiley-article}
 
+
+\documentclass[num-refs]{wiley-article}
 %% Example: Using author-year citations and anonymising submission
 % \documentclass[blind,alpha-refs]{wiley-article}
 
@@ -62,20 +63,19 @@
 
 %Citation style from another project
 %\usepackage[citestyle=numeric,style=numeric,backend=biber]{biblatex}
-%\addbibresource{rifporphyrin.bib}
 %% Example: Using WileyNJD-AMA reference style and superscript
 %%          citations, two-column and serif fonts for AIChE
-\documentclass[serif,twocolumn,lineno]{wiley-article}
-\usepackage[super]{natbib}
+%\documentclass[serif,twocolumn,lineno]{wiley-article}
 \bibliographystyle{WileyNJD-AMA}
 % \makeatletter
 % \renewcommand{\@biblabel}[1]{#1.}
 % \makeatother
 
 % Add additional packages here if required
+\usepackage{natbib}
 \usepackage{siunitx}
-\usepackage{graphicx}
 \graphicspath{{./images/}}
+\usepackage{wrapfig}
 % Update article type if known
 \papertype{Original Article}
 % Include section in journal if known, otherwise delete
@@ -84,7 +84,7 @@
 \title{Synthesis of \texorpdfstring{H\textsubscript{2}}-TPP and its metallation to Zn-TPP}
 
 % List abbreviations here, if any. Please note that it is preferred that abbreviations be defined at the first instance they appear in the text, rather than creating an abbreviations list.
-\abbrevs{\texorpdfstring{H\textsubscript{2}}-TPP, 5,10,15,20-mesotetraphenylporhyrin.}
+\abbrevs{\texorpdfstring{H\textsubscript{2}}-TPP, 5,10,15,20-meso-tetraphenylporhyrin.}
 
 % Include full author names and degrees, when required by the journal.
 % Use the \authfn to add symbols for additional footnotes and present addresses, if any. Usually start with 1 for notes about author contributions; then continuing with 2 etc if any author has a different present address.
@@ -108,28 +108,88 @@
 % Please include a maximum of seven keywords
 \keywords{tetraphenylporphyrin, TPP, Zn-TPP}
 \end{abstract}
+
 \end{frontmatter}
 
 \section{Introduction}
-\begin{figure}[t]
-    \leftalign
-    \includegraphics[width=0.3\textwidth]{example-image-rectangle}
+\begin{wrapfigure}{L}{0.35\textwidth}
+    \includegraphics[width=0.3\textwidth]{TPP}
     \caption{TPP structure}
     \label{TPP-structure}
-\end{figure}
-Porhyrins represent an obiquitous class of molecules that plays a crucial role biochemistry for oxygen transport\cite{hardison_evolution_2012}, storage\citep{kendrew_three-dimensional_1958} and catalysis as well as electron transfer\citep{keilin_cytochrome_1925}.\\
+\end{wrapfigure}
+Porhyrins represent an obiquitous class of molecules that plays a crucial role biochemistry for oxygen transport\citep{hardison_evolution_2012}, storage\citep{kendrew_three-dimensional_1958} and catalysis as well as electron transfer\citep{keilin_cytochrome_1925}.\\
 Therefore, extensive efforts have been put into the exploration of the functionalities obtainable by artificially synthesized porphyrins.\\
-The biomimetic electrocatalysis\cite{facchin_oxygen_2021}\cite{liang_porphyrin-based_2021} and cancer treatment and diagnosis\cite{wang_recent_2021} represent two outstanding examples among all the use cases in which porphyrins have been successfully deployed.
+The biomimetic electrocatalysis\cite{facchin_oxygen_2021,liang_porphyrin-based_2021} and cancer treatment and diagnosis\cite{wang_recent_2021} represent two outstanding examples among all the use cases in which porphyrins have been successfully deployed.
 Numerous works elaborate the further functionalization of \textit{meso}-tetraphenylporphyrin\cite{silva_porphyrins_2006} in order to realize functional materials. \\
 However, to date the scale up in complex porphyrins production and broad commercial application is prevented by the production costs which are primarily led up by the expensiveness of reactants, inefficient and unreliable synthesis.
 In the following work, a simple synthesis route for 5,10,15,20-mesotetraphenylporhyrin is detailed and its products are critically discussed either for the \texorpdfstring{H\textsubscript{2}}-TPP and the metallated Zn-TPP.
+\newpage
 
 \twocolumn
 \section{Methods}
+\begin{figure*}[t!]
+        \centering
+        \includegraphics[width=0.6\textwidth]{reaction}
+        \caption{Reaction scheme for \textit{meso}-TPP synthesis through condensation in acidic medium.}
+        \label{reaction}
+\end{figure*}
+The synthesis proposed for \textit{meso}-tetraphenylporphyrin is a multistep electrophilic aromatic substitution between the electrophilic carboxilic group of protonated benzaldehyde on the aromatic ring of pyrrole which is summarized in Fig.\ref{reaction}.
+The protonation of benzaldehyde implies that the reaction is performed in acidic environment, and it's protonated form is stabilized by the resonance forms reported in Fig.\ref{res-benz}.\\
+This route is called Rothemund synthesis and proceeds through the repetition of the six steps in Fig.\ref{mechanism}
+\begin{figure*}[b!]
+    \centering
+    \begin{subfigure}
+        \centering
+        \includegraphics[width=0.3\textwidth]{resonance-benzaldehyde}
+        \caption{Resonance forms of benzaldehyde in acidic environment.}
+        \label{res-benz}
+    \end{subfigure}
+    \begin{subfigure}
+        \centering
+        \includegraphics[width=0.5\textwidth]{mechanism}
+        \caption{Reaction mechanism for electrophilic substitution on the pyrrolic ring by aldehyde groups.}
+        \label{mechanism}
+    \end{subfigure}
+\end{figure*}
+
 
 \section{Results and Discussions}
+
 \section{Conclusions}
 \section{Experimental}
+Reagents were loaded in a round-bottomed flask containing 40 mL of propionic acid.
+The flask was then placed in a heating mantle mounted with an Allihn condenser on top and heated to boil the acid.
+The reagents, consisting in 1.65 mL (15.75 mmol) of benzaldehyde and 1 mL of pyrrole (14.4 mmol), were loaded from the upper end of the condenser.
+Therefore, a small excess of benzaldehyde was used... \\
+Following, the condenser's walls were wahed with 10 mL of propionic acid to ensure quantitative transfer of the reagents to the flask.
+The reaction was driven in reflux conditions for 30 minutes and was monitored through TLC at 2, 5 and 25 minutes from its beginning.
+A purple precipitate formed in the flask and upon cooling it was filtered from the solvent.
+The filtration was performed using a gootch sieve with a porosity of 3 mounted on Buchner flask connected to a vacuum line.
+Subsequently, the solid was washed from propionic acid using methanol, due to the higher volatility of the latter.
+The purple crystals, which can be seen in Fig.\ref{pic-tpp}, were removed from the porous sieve with a spatula and transferred into a vial which had been previously weighted.
+The product was weighted through the use of a digital scale in order to estimate the reaction yield and a TLC was performed against a commercial standard to ensure successful synthesis.\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.4\textwidth]{photo-tpp}
+    \caption{Picture portraying the H$_{2}$-TPP crystals collected on the sieve.}
+    \label{pic-tpp}
+\end{figure}
+\break
+The metallation of the as-synthesized porphyrin was realized on 200 mg of the sample.
+The intermediate product was weighted on a watch glass and then trasferred into a round-bottomed flask alongside with 20 mL of chloroform and heated using a heating mantle.
+A volume of 4 mL of a saturated solution of zinc acetate in methanol was then added to the flask and reflux conditions were imposed using an Allihn condenser for 30 minutes.
+Also this reaction was monitored through TLC of H$_{2}$-TPP, the starting solution and the reaction solution after the 30 minutes under reflux.
+In order to avoid the streaking of the spots, the samples from the reaction solution were diluted in chloroform before placing on the TLC plate.
+\break
+At this point, the purification of Zn-TPP is needed in order to separate the product from zinc acetate precursor.
+This is achieved through the employment of a separating funnel and use of water as the extracting phase for zinc acetate.
+The separation was repeated twice using each time 20 mL of milliQ water.
+Furthermore, anhydrification of the chloroform containing Zn-TPP was undertaken by the addition of abundant Na$_{2}$SO$_{4}$ powder.
+The sodium sulfate is added until the newly added powder stops aggregating, testifying the lack of water.
+The insoluble powder has been filtered from the organic solvent using a paper filter folded to fit in a funnel.
+The filtered liquid, containing dissolved Zn-TPP, was collected in a 100 mL round-bottomed flask.
+Ultimately, the flask was placed in a rotavapor system to evaporate the solvent and enable the collection of the solid product.
+The reaction yield was again estimated by the use of a digital scale and the product was transferred into a vial before undergoing the analysis described ....
 
 \section*{acknowledgements}
 The contributions of former students in collecting the experimental characterization of their sample has been crucial for validating the synthesis proposed in this work.
@@ -142,7 +202,5 @@ It can be found at https://github.com/EC-Finco/Porphyrins-report.
 
 % Submissions are not required to reflect the precise reference formatting of the journal (use of italics, bold etc.), however it is important that all key elements of each reference are included.
 \bibliography{rifporphyrin}
-
-\graphicalabstract{example-image-1x1}{Please check the journal's author guildines for whether a graphical abstract, key points, new findings, or other items are required for display in the Table of Contents.}
-
+\graphicalabstract{example-image-1x1}{Please check the journal's author guidelines for whether a graphical abstract, key points, new findings, or other items are required for display in the Table of Contents.}
 \end{document}
