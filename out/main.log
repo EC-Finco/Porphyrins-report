@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.5.22)  31 MAR 2022 10:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.5.22)  22 APR 2022 12:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1167,70 +1167,79 @@ Package: siunitx 2021-05-20 v3.0.3 A comprehensive (SI) units package
 \l__siunitx_unit_position_int=\count369
 \l__siunitx_unit_total_int=\count370
 )
+(c:/texlive/2021/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen331
+\WF@size=\dimen332
+\c@WF@wrappedlines=\count371
+\WF@box=\box85
+\WF@everypar=\toks61
+Package: wrapfig 2003/01/31  v 3.6
+)
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 108.
+h' as default language. on input line 101.
 LaTeX Font Info:    Trying to load font information for T1+lato-TLF on input li
-ne 108.
+ne 101.
 
 (c:/texlive/2021/texmf-dist/tex/latex/lato/T1lato-TLF.fd
 File: T1lato-TLF.fd 2019/06/24 Font definitions for T1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 108.
+(Font)              scaled to size 8.0pt on input line 101.
 
-No file main.aux.
+(C:/Users/finco/Desktop/Porphyrins report/out/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxsfmi/m/it on input line 108.
+LaTeX Font Info:    Checking defaults for OML/ntxsfmi/m/it on input line 101.
 LaTeX Font Info:    Trying to load font information for OML+ntxsfmi on input li
-ne 108.
+ne 101.
+
 (c:/texlive/2021/texmf-dist/tex/latex/newtxsf/omlntxsfmi.fd
 File: omlntxsfmi.fd 2014/11/16 Fontinst v1.933 font definitions for OML/ntxsfmi
 .
 )
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 101.
 LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
-108.
+101.
 
 (c:/texlive/2021/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 101.
 LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
- 108.
+ 101.
 
 (c:/texlive/2021/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
 
 (c:/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count371
-\scratchdimen=\dimen331
-\scratchbox=\box85
-\nofMPsegments=\count372
-\nofMParguments=\count373
-\everyMPshowfont=\toks61
-\MPscratchCnt=\count374
-\MPscratchDim=\dimen332
-\MPnumerator=\count375
-\makeMPintoPDFobject=\count376
-\everyMPtoPDFconversion=\toks62
+\scratchcounter=\count372
+\scratchdimen=\dimen333
+\scratchbox=\box86
+\nofMPsegments=\count373
+\nofMParguments=\count374
+\everyMPshowfont=\toks62
+\MPscratchCnt=\count375
+\MPscratchDim=\dimen334
+\MPnumerator=\count376
+\makeMPintoPDFobject=\count377
+\everyMPtoPDFconversion=\toks63
 ) (c:/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1241,15 +1250,15 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 108.
-LaTeX Info: Redefining \microtypecontext on input line 108.
+LaTeX Info: Redefining \selectfont on input line 101.
+LaTeX Info: Redefining \microtypecontext on input line 101.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 108.
+LaTeX Info: Redefining \showhyphens on input line 101.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1261,8 +1270,8 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lato-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-\c@mv@tabular=\count377
-\c@mv@boldtabular=\count378
+\c@mv@tabular=\count378
+\c@mv@boldtabular=\count379
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1301,7 +1310,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: threeparttable package is loaded.
+Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
+Package newfloat Info: `wrapfig' package detected.
 
 (c:/texlive/2021/texmf-dist/tex/latex/translations/translations-basic-dictionar
 y-english.trsl
@@ -1309,40 +1320,40 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 108.
+or `english'. on input line 101.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 6.2pt on input line 108.
+(Font)              scaled to size 6.2pt on input line 101.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 108.
+(Font)              scaled to size 5.5pt on input line 101.
  (c:/texlive/2021/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 108.
+(Font)              size <5> substituted on input line 101.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 108.
+(Font)              size <5> substituted on input line 101.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 108.
+(Font)              size <5> substituted on input line 101.
 
 LaTeX Font Info:    Trying to load font information for U+ntxsfmia on input lin
-e 108.
+e 101.
 (c:/texlive/2021/texmf-dist/tex/latex/newtxsf/untxsfmia.fd
 File: untxsfmia.fd 2014/11/16 Fontinst v1.933 font definitions for U/ntxsfmia.
 )
 LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
-108.
+101.
 
 (c:/texlive/2021/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 1
-08.
+01.
 
 (c:/texlive/2021/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
@@ -1354,10 +1365,10 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 108.
+(Font)              size <5> substituted on input line 101.
 
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-08.
+01.
 (c:/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -1368,104 +1379,232 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 LaTeX Font Warning: Font shape `T1/cmtt/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 108.
+(Font)              size <5> substituted on input line 101.
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/eb/n' will be
-(Font)              scaled to size 8.0pt on input line 119.
+(Font)              scaled to size 8.0pt on input line 112.
 LaTeX Font Info:    Font shape `T1/lato-TLF/eb/n' will be
-(Font)              scaled to size 9.0pt on input line 119.
+(Font)              scaled to size 9.0pt on input line 112.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 119.
+(Font)              scaled to size 9.0pt on input line 112.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 119.
+(Font)              scaled to size 7.3pt on input line 112.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 18.0pt on input line 119.
+(Font)              scaled to size 18.0pt on input line 112.
+./main.tex:112: Undefined control sequence.
+\@title ->Synthesis of \texorpdfstring 
+                                       {H\textsubscript {2}}-TPP and its met...
+l.112 \end{frontmatter}
+                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Calculating math sizes for size <18> on input line 112.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 18.0pt on input line 112.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 13.13992pt on input line 112.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 9.90005pt on input line 112.
+
+LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <18> not available
+(Font)              size <17.28> substituted on input line 112.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <13.13992> not available
+(Font)              size <12> substituted on input line 112.
+
+
+LaTeX Font Warning: Font shape `T1/cmtt/m/n' in size <18> not available
+(Font)              size <17.28> substituted on input line 112.
+
+
+LaTeX Font Warning: Font shape `T1/cmtt/m/n' in size <13.13992> not available
+(Font)              size <12> substituted on input line 112.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <18> not available
+(Font)              size <17.28> substituted on input line 112.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <13.13992> not available
+(Font)              size <12> substituted on input line 112.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <18> not available
+(Font)              size <17.28> substituted on input line 112.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <13.13992> not available
+(Font)              size <12> substituted on input line 112.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <18> not available
+(Font)              size <17.28> substituted on input line 112.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <13.13992> not available
+(Font)              size <12> substituted on input line 112.
+
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 119.
-LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 119.
-LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 8.8pt on input line 119.
-LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 6.6pt on input line 119.
+(Font)              scaled to size 13.13992pt on input line 112.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 8.8pt on input line 119.
+(Font)              scaled to size 12.0pt on input line 112.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 112.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 8.8pt on input line 112.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 6.6pt on input line 112.
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 8.8pt on input line 112.
 LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input l
-ine 119.
+ine 112.
 (c:/texlive/2021/texmf-dist/tex/latex/lato/TS1lato-TLF.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/b/n' will be
-(Font)              scaled to size 8.8pt on input line 119.
+(Font)              scaled to size 8.8pt on input line 112.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lato-TLF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 119.
+(Font)              scaled to size 6.0pt on input line 112.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 6.0pt on input line 119.
+(Font)              scaled to size 6.0pt on input line 112.
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
-
- []
+./main.tex:112: Undefined control sequence.
+\@fpfootnotes ...{Abbreviations:} \texorpdfstring 
+                                                  {H\textsubscript {2}}-TPP,...
+l.112 \end{frontmatter}
+                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 6.5pt on input line 119.
+(Font)              scaled to size 6.5pt on input line 112.
 
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <6.5> not available
-(Font)              size <6> substituted on input line 119.
+(Font)              size <6> substituted on input line 112.
 
 
 LaTeX Font Warning: Font shape `T1/cmtt/m/n' in size <6.5> not available
-(Font)              size <6> substituted on input line 119.
+(Font)              size <6> substituted on input line 112.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <6.5> not available
-(Font)              size <6> substituted on input line 119.
+(Font)              size <6> substituted on input line 112.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <6.5> not available
-(Font)              size <6> substituted on input line 119.
+(Font)              size <6> substituted on input line 112.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <6.5> not available
-(Font)              size <6> substituted on input line 119.
+(Font)              size <6> substituted on input line 112.
 
-LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 119.
-LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 119.
-LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 7.0pt on input line 119.
-\wiley@abstractbox=\box86
-Package mdframed Info: mdframed works in twoside mode on input line 119.
-LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 119.
-LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 8.0pt on input line 119.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 119.
-Package marginnote Info: Suggest that margin note 1.1 will be on
-(marginnote)             absolute page 1.
-(marginnote)             This may be wrong on input line 119.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 119.
-Package mdframed Info: mdframed works in twoside mode on input line 119.
 
-Overfull \hbox (7.36005pt too wide) in paragraph at lines 119--119
-\T1/lato-TLF/m/n/9 nals, which in-cludes sev-eral op-tions for cus-tomiza-tion.
- Please
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+
  []
 
-LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 121.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 121.
-<example-image-rectangle.png, id=4, 401.5pt x 301.125pt>
-File: example-image-rectangle.png Graphic file (type png)
-<use example-image-rectangle.png>
-Package pdftex.def Info: example-image-rectangle.png  used on input line 126.
-(pdftex.def)             Requested size: 170.71652pt x 128.03845pt.
+(Font)              scaled to size 7.0pt on input line 112.
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 7.0pt on input line 112.
+
+./main.tex:112: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112 \end{frontmatter}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+\wiley@abstractbox=\box87
+Package mdframed Info: mdframed works in twoside mode on input line 112.
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 9.0pt on input line 112.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 112.
+Package marginnote Info: Margin note 1.1 is on absolute page 1 on input line 11
+2.
+
+./main.tex:112: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112 \end{frontmatter}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package marginnote Info: xpos seems to be 40.68744pt on input line 112.
+Package mdframed Info: mdframed works in twoside mode on input line 112.
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 114.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 114.
+<./images//TPP.jpg, id=4, 336.50719pt x 336.50719pt>
+File: ./images//TPP.jpg Graphic file (type jpg)
+<use ./images//TPP.jpg>
+Package pdftex.def Info: ./images//TPP.jpg  used on input line 116.
+(pdftex.def)             Requested size: 121.55139pt x 121.55325pt.
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 8.0pt on input line 120.
+
+Package natbib Warning: Citation `hardison_evolution_2012' on page 1 undefined 
+on input line 120.
+
+
+Package natbib Warning: Citation `kendrew_three-dimensional_1958' on page 1 und
+efined on input line 120.
+
+
+Package natbib Warning: Citation `keilin_cytochrome_1925' on page 1 undefined o
+n input line 120.
+
+
+Package natbib Warning: Citation `facchin_oxygen_2021' on page 1 undefined on i
+nput line 122.
+
+
+Package natbib Warning: Citation `liang_porphyrin-based_2021' on page 1 undefin
+ed on input line 122.
+
+
+Package natbib Warning: Citation `wang_recent_2021' on page 1 undefined on inpu
+t line 122.
+
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
+(Font)              scaled to size 8.0pt on input line 123.
+
+Package natbib Warning: Citation `silva_porphyrins_2006' on page 1 undefined on
+ input line 123.
+
+./main.tex:125: Undefined control sequence.
+l.125 ... discussed either for the \texorpdfstring
+                                                  {H\textsubscript{2}}-TPP a...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 [][][] 
@@ -1473,91 +1612,233 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [1
 
-{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 8.0pt on input line 148.
-LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <8> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 148.
+{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images//TPP.j
+pg>]
+<./images//reaction.jpg, id=15, 353.06906pt x 170.13562pt>
+File: ./images//reaction.jpg Graphic file (type jpg)
+<use ./images//reaction.jpg>
+Package pdftex.def Info: ./images//reaction.jpg  used on input line 132.
+(pdftex.def)             Requested size: 243.1028pt x 117.14706pt.
 
 
-LaTeX Warning: Reference `sec:bibstyles' on page 2 undefined on input line 157.
+./main.tex:140: LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140     \begin{subfigure}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./images//resonance-benzaldehyde.jpg, id=16, 258.21469pt x 130.23656pt>
+File: ./images//resonance-benzaldehyde.jpg Graphic file (type jpg)
+<use ./images//resonance-benzaldehyde.jpg>
+Package pdftex.def Info: ./images//resonance-benzaldehyde.jpg  used on input li
+ne 142.
+(pdftex.def)             Requested size: 121.55139pt x 61.30656pt.
+
+./main.tex:145: LaTeX Error: \begin{figure*} on input line 138 ended by \end{su
+bfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.145     \end{subfigure}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
+./main.tex:146: LaTeX Error: Environment subfigure undefined.
 
-LaTeX Warning: Reference `sec:bibstyles' on page 2 undefined on input line 159.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146     \begin{subfigure}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./images//mechanism.jpg, id=17, 451.6875pt x 269.50688pt>
+File: ./images//mechanism.jpg Graphic file (type jpg)
+<use ./images//mechanism.jpg>
+Package pdftex.def Info: ./images//mechanism.jpg  used on input line 148.
+(pdftex.def)             Requested size: 202.5836pt x 120.87807pt.
+
+./main.tex:151: LaTeX Error: \begin{figure*} on input line 138 ended by \end{su
+bfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.151     \end{subfigure}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./images//Zn-TPP reaction.jpg, id=18, 435.87843pt x 150.5625pt>
+File: ./images//Zn-TPP reaction.jpg Graphic file (type jpg)
+<use ./images//Zn-TPP reaction.jpg>
+Package pdftex.def Info: ./images//Zn-TPP reaction.jpg  used on input line 163.
+
+(pdftex.def)             Requested size: 324.13501pt x 111.96356pt.
+
+Overfull \hbox (3.33525pt too wide) in paragraph at lines 136--170
+\T1/lato-TLF/m/n/8 is a mul-ti-step elec-trophilic aro-matic sub-sti-tu-tion be
+-tween
+ []
 
 
-
-Package natbib Warning: Citation `urmson2008autonomous' on page 2 undefined on 
-input line 165.
-
-
-Package natbib Warning: Citation `lees2010theoretical' on page 2 undefined on i
-nput line 165.
+Overfull \hbox (2.53926pt too wide) in paragraph at lines 136--170
+\T1/lato-TLF/m/n/8 the elec-trophilic car-box-ilic group of pro-to-nated ben-za
+lde-
+ []
 
 
-Package natbib Warning: Citation `geiger2012we' on page 2 undefined on input li
-ne 165.
+Overfull \hbox (0.65492pt too wide) in paragraph at lines 136--170
+\T1/lato-TLF/m/n/8 that the re-ac-tion is per-formed in acidic en-vi-ron-ment, 
+and
+ []
 
-[2 <./example-image-rectangle.png>]
-LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 177.
-LaTeX Font Info:    Font shape `T1/lato-TLF/eb/n' will be
-(Font)              scaled to size 8.5pt on input line 215.
-LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 6.2pt on input line 218.
- [3]
-LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 7.5pt on input line 229.
-LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 6.2pt on input line 234.
-LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 5.5pt on input line 234.
+
+Overfull \hbox (4.42532pt too wide) in paragraph at lines 136--170
+\T1/lato-TLF/m/n/8 gets de-pro-to-nated in the sec-ond step. The re-protonation
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--170
+\T1/lato-TLF/m/n/8 the newly added pyrrolic ring. 
+ []
+
+
+Underfull \vbox (badness 1270) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2
+
+ <./images//reaction.jpg> <./images//resonance-benzaldehyde.jpg> <./images//mec
+hanism.jpg>]
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/it' will be
+(Font)              scaled to size 10.0pt on input line 171.
+<./images//TLC-h2-TPP.jpg, id=24, 274.77657pt x 207.77625pt>
+File: ./images//TLC-h2-TPP.jpg Graphic file (type jpg)
+<use ./images//TLC-h2-TPP.jpg>
+Package pdftex.def Info: ./images//TLC-h2-TPP.jpg  used on input line 181.
+(pdftex.def)             Requested size: 121.55139pt x 91.91324pt.
+
+
+LaTeX Warning: Reference `TLC-Zn-TPP' on page 3 undefined on input line 187.
+
+
+./main.tex:190: LaTeX Error: File `TLC-Zn-TPP' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.190 ...graphics[width=0.3\textwidth]{TLC-Zn-TPP}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \vbox (badness 1478) has occurred while \output is active []
+
+<./images//photo-tpp.jpg, id=25, 2832.5825pt x 1878.01625pt>
+File: ./images//photo-tpp.jpg Graphic file (type jpg)
+<use ./images//photo-tpp.jpg>
+Package pdftex.def Info: ./images//photo-tpp.jpg  used on input line 210.
+(pdftex.def)             Requested size: 162.0644pt x 107.43202pt.
+
+Overfull \hbox (5.89041pt too wide) in paragraph at lines 196--230
+\T1/lato-TLF/m/n/8 flux con-di-tions for 30 min-utes and was mon-i-tored throug
+h
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--230
+ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--230
+
+ []
+
+[3 <./images//Zn-TPP reaction.jpg>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <./images//TLC-h2-TPP.jpg> <./images//photo-tpp.jpg>]
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 252.
+(Font)              scaled to size 10.0pt on input line 231.
 
 
 LaTeX Font Warning: Font shape `T1/lato-TLF/b/sc' undefined
-(Font)              using `T1/lato-TLF/b/n' instead on input line 252.
+(Font)              using `T1/lato-TLF/b/n' instead on input line 231.
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/sc' will be
-(Font)              scaled to size 10.0pt on input line 252.
-[4]
+(Font)              scaled to size 10.0pt on input line 231.
 No file main.bbl.
-Package mdframed Info: mdframed works in twoside mode on input line 267.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 267.
-<example-image-1x1.pdf, id=33, 200.75pt x 200.75pt>
+(Font)              scaled to size 8.0pt on input line 242.
+<example-image-1x1.pdf, id=34, 200.75pt x 200.75pt>
 File: example-image-1x1.pdf Graphic file (type pdf)
 <use example-image-1x1.pdf>
-Package pdftex.def Info: example-image-1x1.pdf  used on input line 267.
-(pdftex.def)             Requested size: 56.03194pt x 56.034pt.
-Package lettrine.sty Info: Targeted height = 56.034pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 56.034pt (example-image-1x1);
-(lettrine.sty)             reported on input line 267.
-LaTeX Font Info:    Font shape `T1/lato-TLF/b/sc' will be
-(Font)              scaled to size 8.0pt on input line 267.
-File: example-image-1x1.pdf Graphic file (type pdf)
-<use example-image-1x1.pdf>
-Package pdftex.def Info: example-image-1x1.pdf  used on input line 273.
+Package pdftex.def Info: example-image-1x1.pdf  used on input line 242.
 (pdftex.def)             Requested size: 121.03598pt x 121.034pt.
 Package lettrine.sty Info: Targeted height = 121.034pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 121.034pt (example-image-1x1);
-(lettrine.sty)             reported on input line 273.
+(lettrine.sty)             reported on input line 242.
 
 Package natbib Warning: There were undefined citations.
 
+
+Overfull \hbox (10.19861pt too wide) in paragraph at lines 242--243
+[][]\T1/lato-TLF/m/sc/8 Please check the jour-
+ []
+
+
+Overfull \hbox (6.19908pt too wide) in paragraph at lines 242--243
+\T1/lato-TLF/m/sc/8 key points, new find-
+ []
+
+
+Overfull \hbox (1.92311pt too wide) in paragraph at lines 242--243
+\T1/lato-TLF/m/sc/8 ings, or other items
+ []
+
+
+Overfull \hbox (2.04665pt too wide) in paragraph at lines 242--243
+\T1/lato-TLF/m/sc/8 are re-quired for dis-
+ []
+
 [5 <c:/texlive/2021/texmf-dist/tex/latex/mwe/example-image-1x1.pdf>]
-(C:/Users/finco/Desktop/Porphyrins report/out/main.aux
-
-LaTeX Warning: Endnotes may have changed. Rerun to get them right..
-
-)
+(C:/Users/finco/Desktop/Porphyrins report/out/main.aux)
 
 LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.5pt have occurred.
+(Font)              up to 1.13992pt have occurred.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1570,34 +1851,30 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 28756 strings out of 478836
- 572539 string characters out of 5859622
- 887357 words of memory out of 5000000
- 45683 multiletter control sequences out of 15000+600000
- 1211234 words of font info for 257 fonts, out of 8000000 for 9000
+ 28926 strings out of 478836
+ 576111 string characters out of 5859622
+ 896359 words of memory out of 5000000
+ 45847 multiletter control sequences out of 15000+600000
+ 1208612 words of font info for 247 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 123i,20n,131p,636b,1133s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texl
-ive/2021/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{c:/texlive/2021/texmf-di
-st/fonts/enc/dvips/lato/a_rt66h3.enc}<c:/texlive/2021/texmf-dist/fonts/type1/ty
-poland/lato/Lato-Bold.pfb><c:/texlive/2021/texmf-dist/fonts/type1/typoland/lato
-/Lato-Heavy.pfb><c:/texlive/2021/texmf-dist/fonts/type1/typoland/lato/Lato-Ital
-ic.pfb><c:/texlive/2021/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb><
-c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb><c:/t
-exlive/2021/texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/texlive/2021/texmf-
-dist/fonts/type1/public/lm/lmss8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/pu
-blic/lm/lmsy10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-<c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb><c:/texliv
-e/2021/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb><c:/texlive/2021/tex
-mf-dist/fonts/type1/public/newtx/txexs.pfb><c:/texlive/2021/texmf-dist/fonts/ty
-pe1/public/newtx/txsys.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/newtx
-sf/zsfmi-reg.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/newtxsf/zsfmia-
-bol.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/newtxsf/zsfmia-reg.pfb>
+ 123i,20n,131p,630b,1138s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2021/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{c:/texlive/202
+1/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc}<c:/texlive/2021/texmf-dist/font
+s/type1/typoland/lato/Lato-Bold.pfb><c:/texlive/2021/texmf-dist/fonts/type1/typ
+oland/lato/Lato-BoldItalic.pfb><c:/texlive/2021/texmf-dist/fonts/type1/typoland
+/lato/Lato-Heavy.pfb><c:/texlive/2021/texmf-dist/fonts/type1/typoland/lato/Lato
+-Italic.pfb><c:/texlive/2021/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.
+pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/texlive/20
+21/texmf-dist/fonts/type1/public/lm/lmss8.pfb><c:/texlive/2021/texmf-dist/fonts
+/type1/public/lm/lmsy10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/lm/l
+msy8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/newtx/txsys.pfb><c:/tex
+live/2021/texmf-dist/fonts/type1/public/newtxsf/zsfmi-reg.pfb><c:/texlive/2021/
+texmf-dist/fonts/type1/public/newtxsf/zsfmia-reg.pfb>
 Output written on "C:/Users/finco/Desktop/Porphyrins report/out/main.pdf" (5 pa
-ges, 234812 bytes).
+ges, 1002529 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
- 79 compressed objects within 1 object stream
+ 92 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 62487 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 66613 words of extra memory for PDF output out of 74296 (max. 10000000)
 
