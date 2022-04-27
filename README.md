@@ -1,3 +1,4 @@
 # Coursework on TPP synthesis and metallation
 This repo is used as a version control for the writing and for storing the information related to the lab experience that I've done as part of the MSc in Materials Science at University of Padova. <br />
 The report is written on the Wiley template for original papers, which can be downloaded at the [link](https://authorservices.wiley.com/author-resources/book-authors/prepare-your-manuscript/wiley-latex-template.html).
+The available dataset consists in a collection of [pictures](https://photos.app.goo.gl/iz8Uq2QUgXTqpMkTA) and the laboratory [notebook](https://drive.google.com/file/d/1Dqf5EHy--bS9fJDR-YzxN4ehRHHdMIRq/view?usp=sharing).
