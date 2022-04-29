@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.5.22)  29 APR 2022 14:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.5.22)  29 APR 2022 18:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -833,18 +833,10 @@ Package pdftex.def Info: head_foot/RF.pdf  used on input line 213.
  <./head_foot/journal_name.pdf> <./head_foot/RSC_LOGO_CMYK.pdf> <./head_foot/he
 ader_bar.pdf> <./head_foot/DOI.pdf> <./head_foot/dates.pdf> <./images//TPP.jpg>
  <./head_foot/LF.pdf> <./head_foot/RF.pdf>]
-<./images//TLC-h2-TPP.jpg, id=157, 274.77657pt x 207.77625pt>
-File: ./images//TLC-h2-TPP.jpg Graphic file (type jpg)
-<use ./images//TLC-h2-TPP.jpg>
-Package pdftex.def Info: ./images//TLC-h2-TPP.jpg  used on input line 234.
-(pdftex.def)             Requested size: 158.68263pt x 119.99352pt.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 235.
-<./images//TLC-Zn-TPP.jpg, id=158, 286.06876pt x 207.77625pt>
-File: ./images//TLC-Zn-TPP.jpg Graphic file (type jpg)
-<use ./images//TLC-Zn-TPP.jpg>
-Package pdftex.def Info: ./images//TLC-Zn-TPP.jpg  used on input line 239.
-(pdftex.def)             Requested size: 158.68263pt x 115.25375pt.
+Underfull \hbox (badness 10000) in paragraph at lines 227--230
+
+ []
+
 
 Overfull \hbox (273.71552pt too wide) has occurred while \output is active
 [][][] 
@@ -855,51 +847,53 @@ Overfull \vbox (6.00002pt too high) has occurred while \output is active []
 
 File: head_foot/RF.pdf Graphic file (type pdf)
 <use head_foot/RF.pdf>
-Package pdftex.def Info: head_foot/RF.pdf  used on input line 247.
+Package pdftex.def Info: head_foot/RF.pdf  used on input line 230.
 (pdftex.def)             Requested size: 90.4577pt x 7.46786pt.
 File: head_foot/LF.pdf Graphic file (type pdf)
 <use head_foot/LF.pdf>
-Package pdftex.def Info: head_foot/LF.pdf  used on input line 247.
+Package pdftex.def Info: head_foot/LF.pdf  used on input line 230.
 (pdftex.def)             Requested size: 167.78156pt x 9.0pt.
 
 [2 <./images//reaction.jpg> <./images//resonance-benzaldehyde.jpg> <./images//m
 echanism.jpg>]
+<./images//TLC-h2-TPP.jpg, id=167, 274.77657pt x 207.77625pt>
+File: ./images//TLC-h2-TPP.jpg Graphic file (type jpg)
+<use ./images//TLC-h2-TPP.jpg>
+Package pdftex.def Info: ./images//TLC-h2-TPP.jpg  used on input line 235.
+(pdftex.def)             Requested size: 158.68263pt x 119.99352pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 236.
+<./images//TLC-Zn-TPP.jpg, id=168, 286.06876pt x 207.77625pt>
+File: ./images//TLC-Zn-TPP.jpg Graphic file (type jpg)
+<use ./images//TLC-Zn-TPP.jpg>
+Package pdftex.def Info: ./images//TLC-Zn-TPP.jpg  used on input line 240.
+(pdftex.def)             Requested size: 158.68263pt x 115.25375pt.
+
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 249.
+(hyperref)                removing `math shift' on input line 250.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 249.
+(hyperref)                removing `superscript' on input line 250.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 249.
+(hyperref)                removing `math shift' on input line 250.
 
 <./images//1H-NMR-H2-TPP.png, id=171, 277.78781pt x 185.94469pt>
 File: ./images//1H-NMR-H2-TPP.png Graphic file (type png)
 <use ./images//1H-NMR-H2-TPP.png>
-Package pdftex.def Info: ./images//1H-NMR-H2-TPP.png  used on input line 256.
+Package pdftex.def Info: ./images//1H-NMR-H2-TPP.png  used on input line 257.
 (pdftex.def)             Requested size: 238.01991pt x 159.32765pt.
 <./images//1H-NMR-Zn-TPP.png, id=174, 298.11375pt x 185.94469pt>
 File: ./images//1H-NMR-Zn-TPP.png Graphic file (type png)
 <use ./images//1H-NMR-Zn-TPP.png>
-Package pdftex.def Info: ./images//1H-NMR-Zn-TPP.png  used on input line 274.
+Package pdftex.def Info: ./images//1H-NMR-Zn-TPP.png  used on input line 275.
 (pdftex.def)             Requested size: 264.46837pt x 164.96817pt.
 
-Overfull \hbox (9.24713pt too wide) in paragraph at lines 274--275
+Overfull \hbox (9.24713pt too wide) in paragraph at lines 275--276
  [][] 
- []
-
-
-Underfull \hbox (badness 1248) in paragraph at lines 281--291
-\T1/bch/m/n/9 peaks ob-served ex-per-i-men-tally is heav-ily sup-pressed in the
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 281--291
-
  []
 
 
@@ -915,143 +909,168 @@ Overfull \vbox (6.00002pt too high) has occurred while \output is active []
 
 File: head_foot/LF.pdf Graphic file (type pdf)
 <use head_foot/LF.pdf>
-Package pdftex.def Info: head_foot/LF.pdf  used on input line 291.
+Package pdftex.def Info: head_foot/LF.pdf  used on input line 278.
 (pdftex.def)             Requested size: 167.78156pt x 9.0pt.
 File: head_foot/RF.pdf Graphic file (type pdf)
 <use head_foot/RF.pdf>
-Package pdftex.def Info: head_foot/RF.pdf  used on input line 291.
+Package pdftex.def Info: head_foot/RF.pdf  used on input line 278.
 (pdftex.def)             Requested size: 90.4577pt x 7.46786pt.
 
 [3 <./images//Zn-TPP reaction.jpg> <./images//TLC-h2-TPP.jpg> <./images//TLC-Zn
 -TPP.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 292--295
+Underfull \hbox (badness 1248) in paragraph at lines 282--292
+\T1/bch/m/n/9 peaks ob-served ex-per-i-men-tally is heav-ily sup-pressed in the
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--296
 
  []
 
 <./images//ESI-MS-H2-TPP.png, id=186, 1936.23375pt x 1482.28781pt>
 File: ./images//ESI-MS-H2-TPP.png Graphic file (type png)
 <use ./images//ESI-MS-H2-TPP.png>
-Package pdftex.def Info: ./images//ESI-MS-H2-TPP.png  used on input line 300.
+Package pdftex.def Info: ./images//ESI-MS-H2-TPP.png  used on input line 301.
 (pdftex.def)             Requested size: 238.01991pt x 182.20949pt.
 <./images//ESI-MS-Zn-TPP.png, id=187, 1936.23375pt x 1482.28781pt>
 File: ./images//ESI-MS-Zn-TPP.png Graphic file (type png)
 <use ./images//ESI-MS-Zn-TPP.png>
-Package pdftex.def Info: ./images//ESI-MS-Zn-TPP.png  used on input line 306.
+Package pdftex.def Info: ./images//ESI-MS-Zn-TPP.png  used on input line 307.
 (pdftex.def)             Requested size: 264.46837pt x 202.45247pt.
 
-Overfull \hbox (9.24713pt too wide) in paragraph at lines 306--307
+Overfull \hbox (9.24713pt too wide) in paragraph at lines 307--308
  [][] 
  []
 
 
-Underfull \hbox (badness 1565) in paragraph at lines 313--322
+Underfull \hbox (badness 1565) in paragraph at lines 314--323
 \T1/bch/m/n/9 metal cen-ter co-or-di-na-tion that char-ac-ter-ize the por-phyri
 nic
  []
 
 
-Underfull \hbox (badness 1062) in paragraph at lines 313--322
+Underfull \hbox (badness 1062) in paragraph at lines 314--323
 \T1/bch/m/n/9 macro-cy-cle al-lows the fine tun-ing of chem-istry and op-ti-cal
 
  []
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 313--322
+Underfull \hbox (badness 1466) in paragraph at lines 314--323
 \T1/bch/m/n/9 in or-der to avoid un-wanted poly-mer-iza-tion. The op-ti-mal
  []
 
 
-Underfull \hbox (badness 1331) in paragraph at lines 313--322
+Underfull \hbox (badness 1331) in paragraph at lines 314--323
 \T1/bch/m/n/9 they pro-vide the most en-ergy for ef-fec-tively pro-mot-ing an
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 313--322
+Underfull \hbox (badness 10000) in paragraph at lines 314--323
 
  []
 
+
+Overfull \vbox (1.14545pt too high) has occurred while \output is active []
+
 File: head_foot/RF.pdf Graphic file (type pdf)
 <use head_foot/RF.pdf>
-Package pdftex.def Info: head_foot/RF.pdf  used on input line 322.
+Package pdftex.def Info: head_foot/RF.pdf  used on input line 323.
 (pdftex.def)             Requested size: 90.4577pt x 7.46786pt.
 File: head_foot/LF.pdf Graphic file (type pdf)
 <use head_foot/LF.pdf>
-Package pdftex.def Info: head_foot/LF.pdf  used on input line 322.
+Package pdftex.def Info: head_foot/LF.pdf  used on input line 323.
 (pdftex.def)             Requested size: 167.78156pt x 9.0pt.
+
 [4 <./images//1H-NMR-H2-TPP.png> <./images//1H-NMR-Zn-TPP.png> <./images//ESI-M
 S-H2-TPP.png>]
-<./images//UV-Vis-Zn-TPP.jpg, id=199, 383.18156pt x 271.0125pt>
+<./images//UV-Vis-Zn-TPP.jpg, id=201, 383.18156pt x 271.0125pt>
 File: ./images//UV-Vis-Zn-TPP.jpg Graphic file (type jpg)
 <use ./images//UV-Vis-Zn-TPP.jpg>
-Package pdftex.def Info: ./images//UV-Vis-Zn-TPP.jpg  used on input line 327.
+Package pdftex.def Info: ./images//UV-Vis-Zn-TPP.jpg  used on input line 329.
 (pdftex.def)             Requested size: 158.68263pt x 112.23236pt.
-<./images//conv-Zn-TPP.jpg, id=203, 615.80063pt x 457.71pt>
+<./images//conv-Zn-TPP.jpg, id=205, 615.80063pt x 457.71pt>
 File: ./images//conv-Zn-TPP.jpg Graphic file (type jpg)
 <use ./images//conv-Zn-TPP.jpg>
-Package pdftex.def Info: ./images//conv-Zn-TPP.jpg  used on input line 338.
+Package pdftex.def Info: ./images//conv-Zn-TPP.jpg  used on input line 341.
 (pdftex.def)             Requested size: 158.68263pt x 117.94022pt.
-<./images//printed.jpg, id=205, 114.4275pt x 127.97812pt>
+<./images//printed.jpg, id=208, 114.4275pt x 127.97812pt>
 File: ./images//printed.jpg Graphic file (type jpg)
 <use ./images//printed.jpg>
-Package pdftex.def Info: ./images//printed.jpg  used on input line 347.
+Package pdftex.def Info: ./images//printed.jpg  used on input line 350.
 (pdftex.def)             Requested size: 158.68263pt x 177.48093pt.
 File: head_foot/LF.pdf Graphic file (type pdf)
 <use head_foot/LF.pdf>
-Package pdftex.def Info: head_foot/LF.pdf  used on input line 359.
+Package pdftex.def Info: head_foot/LF.pdf  used on input line 363.
 (pdftex.def)             Requested size: 167.78156pt x 9.0pt.
 File: head_foot/RF.pdf Graphic file (type pdf)
 <use head_foot/RF.pdf>
-Package pdftex.def Info: head_foot/RF.pdf  used on input line 359.
+Package pdftex.def Info: head_foot/RF.pdf  used on input line 363.
 (pdftex.def)             Requested size: 90.4577pt x 7.46786pt.
  [5 <./images//ESI-MS-Zn-TPP.png> <./images//UV-Vis-Zn-TPP.jpg> <./images//conv
--Zn-TPP.jpg>]
-<./images//photo-tpp.jpg, id=219, 2832.5825pt x 1878.01625pt>
+-Zn-TPP.jpg> <./images//printed.jpg>]
+<./images//photo-tpp.jpg, id=221, 2832.5825pt x 1878.01625pt>
 File: ./images//photo-tpp.jpg Graphic file (type jpg)
 <use ./images//photo-tpp.jpg>
-Package pdftex.def Info: ./images//photo-tpp.jpg  used on input line 374.
+Package pdftex.def Info: ./images//photo-tpp.jpg  used on input line 378.
 (pdftex.def)             Requested size: 211.57147pt x 140.27202pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 360--396
+Underfull \hbox (badness 10000) in paragraph at lines 364--400
  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 360--396
+Underfull \hbox (badness 2229) in paragraph at lines 364--400
+\T1/bch/m/n/9 The met-al-la-tion of the as-synthesized por-phyrin was re-al-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--400
 
  []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 1127) in paragraph at lines 402--405
+Underfull \hbox (badness 1127) in paragraph at lines 406--409
 \T1/bch/m/n/9 A GitHub repos-i-tory hosts the com-plete file col-lec-tion pro-
  []
 
 
-Underfull \hbox (badness 2460) in paragraph at lines 402--405
+Underfull \hbox (badness 2460) in paragraph at lines 406--409
 \T1/bch/m/n/9 duced as part of this course-work. It can be found at
  []
 
-File: head_foot/RF.pdf Graphic file (type pdf)
-<use head_foot/RF.pdf>
-Package pdftex.def Info: head_foot/RF.pdf  used on input line 405.
-(pdftex.def)             Requested size: 90.4577pt x 7.46786pt.
-File: head_foot/LF.pdf Graphic file (type pdf)
-<use head_foot/LF.pdf>
-Package pdftex.def Info: head_foot/LF.pdf  used on input line 405.
-(pdftex.def)             Requested size: 167.78156pt x 9.0pt.
-[6 <./images//printed.jpg> <./images//photo-tpp.jpg>] (./report.bbl)
+(./report.bbl
 
-AED: lastpage setting LastPage
+Package balance Warning: You have called \balance in second column
+(balance)                Columns might not be balanced.
+
+File: head_foot/RF.pdf Graphic file (type pdf)
+<use head_foot/RF.pdf>
+Package pdftex.def Info: head_foot/RF.pdf  used on input line 78.
+(pdftex.def)             Requested size: 90.4577pt x 7.46786pt.
 File: head_foot/LF.pdf Graphic file (type pdf)
 <use head_foot/LF.pdf>
-Package pdftex.def Info: head_foot/LF.pdf  used on input line 417.
+Package pdftex.def Info: head_foot/LF.pdf  used on input line 78.
+(pdftex.def)             Requested size: 167.78156pt x 9.0pt.
+[6 <./images//photo-tpp.jpg>]) 
+AED: lastpage setting LastPage
+
+Overfull \vbox (1.88548pt too high) has occurred while \output is active []
+
+File: head_foot/LF.pdf Graphic file (type pdf)
+<use head_foot/LF.pdf>
+Package pdftex.def Info: head_foot/LF.pdf  used on input line 421.
 (pdftex.def)             Requested size: 167.78156pt x 9.0pt.
 File: head_foot/RF.pdf Graphic file (type pdf)
 <use head_foot/RF.pdf>
-Package pdftex.def Info: head_foot/RF.pdf  used on input line 417.
+Package pdftex.def Info: head_foot/RF.pdf  used on input line 421.
 (pdftex.def)             Requested size: 90.4577pt x 7.46786pt.
+
 [7] (./report.aux)
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1066,11 +1085,11 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 Here is how much of TeX's memory you used:
  14658 strings out of 478836
  230623 string characters out of 5859622
- 589651 words of memory out of 5000000
+ 590729 words of memory out of 5000000
  31946 multiletter control sequences out of 15000+600000
  480297 words of font info for 141 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,14n,81p,571b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 74i,14n,81p,571b,541s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texl
 ive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2021/texmf-dist/fon
 ts/type1/bitstrea/charter/bchb8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/bi
@@ -1088,10 +1107,10 @@ texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb><c:/texlive/20
 21/texmf-dist/fonts/type1/urw/symbol/usyr.pfb><c:/texlive/2021/texmf-dist/fonts
 /type1/urw/times/utmr8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/times/u
 tmri8a.pfb>
-Output written on report.pdf (7 pages, 2129035 bytes).
+Output written on report.pdf (7 pages, 2129274 bytes).
 PDF statistics:
- 300 PDF objects out of 1000 (max. 8388607)
- 214 compressed objects within 3 object streams
+ 302 PDF objects out of 1000 (max. 8388607)
+ 216 compressed objects within 3 object streams
  41 named destinations out of 1000 (max. 500000)
  183 words of extra memory for PDF output out of 10000 (max. 10000000)
 
